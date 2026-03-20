@@ -3,9 +3,11 @@
 > Understanding the signals behind customer churn to protect high-value relationships and reduce portfolio risk.
 ---
 ##  Business Problem
-Customer churn is a critical challenge in the banking sector, directly impacting revenue stability and increasing customer acquisition costs. Identifying at-risk customers and understanding the drivers behind churn is essential for improving retention and customer lifetime value and according to Bain and Company 5% retention of customer can help gain profitability of 25%-95%.
+
+Customer churn is a critical challenge in the banking sector, directly impacting revenue stability and increasing customer acquisition costs. Identifying at-risk customers and understanding the drivers behind churn is essential for improving retention and customer lifetime value and according to Bain and Company Even a modest 5% improvement in customer retention can drive a disproportionate 25%–95% increase in profitability.
 
 ---
+
 ## Objective
 > Identify High risk customer segments prone to churn
 > Analyze behvarioal and financial drivers of churn
