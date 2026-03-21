@@ -107,10 +107,15 @@ The dashboard is designed with a focus on **clarity,minimalism and guided analyt
 
 ## Analysis Demo
 > Churn Overview - https://github.com/jeevish/Sample-Banking-Churn-Analysis/blob/main/assets/assets/churn-overview.png
+
 > High-Value Customer Risk - https://github.com/jeevish/Sample-Banking-Churn-Analysis/blob/main/assets/assets/high-value-customer-risk.png
+
 > Behavioral Drivers - https://github.com/jeevish/Sample-Banking-Churn-Analysis/blob/main/assets/assets/segment-drivers-analysis.png
+
 >  Recommendations - https://github.com/jeevish/Sample-Banking-Churn-Analysis/blob/main/assets/assets/recommendation.png
+
 > Interactive slicer - https://github.com/jeevish/Sample-Banking-Churn-Analysis/blob/main/assets/assets/interactive-slicer-menu.png
+
 > Page naviagtion menu -https://github.com/jeevish/Sample-Banking-Churn-Analysis/blob/main/assets/assets/page-navigation-menu.png
 
 ---
