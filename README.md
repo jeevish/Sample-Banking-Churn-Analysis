@@ -126,8 +126,6 @@ The dashboard is designed with a focus on **clarity,minimalism and guided analyt
 > Interactive slicer
 ![Interactive_Slicers](https://github.com/jeevish/Sample-Banking-Churn-Analysis/blob/main/assets/assets/interactive-slicer-menu.png)
 
-> Page naviagtion menu
-![Page_naviagtion_menu](https://github.com/jeevish/Sample-Banking-Churn-Analysis/blob/main/assets/assets/page-navigation-menu.png)
 
 ---
 
