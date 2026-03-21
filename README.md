@@ -1,7 +1,9 @@
 ## Bank Customer Churn Analysis | Power BI Dashboard
 
-> Understanding the signals behind customer churn to protect high-value relationships and reduce portfolio risk.
+>This project analyzes customer churn in a banking portfolio, focusing on identifying high-risk segments, understanding behavioral and financial drivers, and deriving actionable retention strategies.
+
 ---
+
 ##  Business Problem
 
 Customer churn is a critical challenge in the banking sector, directly impacting revenue stability and increasing customer acquisition costs. Identifying at-risk customers and understanding the drivers behind churn is essential for improving retention and customer lifetime value and according to Bain and Company Even a modest 5% improvement in customer retention can drive a disproportionate 25%–95% increase in profitability.
