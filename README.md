@@ -12,8 +12,11 @@ Customer churn is a critical challenge in the banking sector, directly impacting
 
 ## Objective
 > Identify High risk customer segments prone to churn
+
 > Analyze behvarioal and financial drivers of churn
+
 > Evaluate customer engagement pattern.
+
 > Enable targeted and data driven retention strategies
 
 ---
